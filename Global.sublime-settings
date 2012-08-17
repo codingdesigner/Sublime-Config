@@ -1,0 +1,16 @@
+// Place user-specific overrides in this file, to ensure they're preserved
+// when upgrading
+{
+  "file_exclude_patterns":
+  [
+    "._*"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".sass-cache"
+  ],
+  "ignored_packages":
+  [
+    "Vintage"
+  ]
+}

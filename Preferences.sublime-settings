@@ -1,0 +1,27 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"._*"
+	],
+	"folder_exclude_patterns":
+	[
+		".sass-cache",
+		".git"
+	],
+	"font_face": "Andale Mono",
+	"font_options":
+	[
+	],
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
