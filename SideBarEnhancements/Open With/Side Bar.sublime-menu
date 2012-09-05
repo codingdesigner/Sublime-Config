@@ -11,7 +11,7 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "Adobe Photoshop CS5.app", // OSX
+									"application": "Adobe Photoshop CS6", // OSX
 									"extensions":"psd|png|jpg|jpeg"  //any file with these extensions
 								}
 			},
@@ -39,8 +39,22 @@
 				"command": "side_bar_files_open_with",
 				"args": {
 									"paths": [],
-									"application": "C:\\Documents and Settings\\tito\\Configuración local\\Datos de programa\\Google\\Chrome\\Application\\chrome.exe",
+									"application": "Google Chrome",
 									"extensions":".*" //any file with extension
+								}
+			},
+
+			{"caption":"-"},
+			//application n
+			{
+				"caption": "Marked",
+				"id": "side-bar-files-open-with-marked",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "Marked",
+									"extensions":"markdown|md|txt" //any file with extension
 								}
 			},
 
