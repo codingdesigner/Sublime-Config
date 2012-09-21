@@ -5,7 +5,8 @@
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
-		"._*"
+		"._*",
+		".DS_Store"
 	],
 	"folder_exclude_patterns":
 	[
