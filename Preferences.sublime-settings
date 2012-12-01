@@ -28,5 +28,6 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"save_on_focus_lost": true,
-	"wide_caret": true
+	"wide_caret": true,
+	"detect_slow_plugins": false
 }
