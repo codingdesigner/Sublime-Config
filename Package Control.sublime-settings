@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Can I Use",
+		"ColorPicker",
+		"DocBlockr",
+		"Gist",
+		"Git",
+		"Hex to HSL Color Converter",
+		"Hex-to-RGBA",
+		"Incrementor",
+		"Insert Nums",
+		"JsFormat",
+		"Live CSS",
+		"Modific",
+		"Package Control",
+		"Sass",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"sublime-csspecific",
+		"SublimePeek",
+		"Table Editor",
+		"Tag",
+		"ZenCoding"
+	]
+}
