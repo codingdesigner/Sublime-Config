@@ -2,6 +2,7 @@
 	"auto_complete_commit_on_tab": false,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"detect_slow_plugins": false,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -23,11 +24,10 @@
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
+	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"save_on_focus_lost": true,
-	"wide_caret": true,
-	"detect_slow_plugins": false
+	"wide_caret": true
 }
