@@ -74,5 +74,6 @@
     }
   },
   { "keys": ["ctrl+s"], "command": "toggle_side_bar" },
-  { "keys": ["ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}}
+  { "keys": ["ctrl+alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+  { "keys": ["super+shift+alt+d"], "command": "drush" }
 ]
