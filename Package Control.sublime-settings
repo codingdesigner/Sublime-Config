@@ -10,6 +10,7 @@
 		"CSSLint",
 		"DocBlockr",
 		"Drush",
+		"Emmet",
 		"Gist",
 		"Git",
 		"Hayaku - tools for writing CSS faster",
@@ -26,12 +27,12 @@
 		"Sass",
 		"Search Stack Overflow",
 		"SideBarEnhancements",
+		"Smart Duplicate",
 		"SmartMarkdown",
 		"sublime-csspecific",
 		"SublimePeek",
 		"Syntax Highlighting for Sass",
 		"Table Editor",
-		"Tag",
-		"ZenCoding"
+		"Tag"
 	]
 }
