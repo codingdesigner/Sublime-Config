@@ -18,7 +18,7 @@
 	"font_options":
 	[
 	],
-	"font_size": 18,
+	"font_size": 18.0,
 	"ignored_packages":
 	[
 		"Vintage"
